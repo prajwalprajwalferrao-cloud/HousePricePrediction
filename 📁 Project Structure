@@ -1,0 +1,8 @@
+HousePricePrediction/
+├── app.py                 # Streamlit web application (UI & logic)
+├── requirements.txt       # Project dependencies
+├── best_model.pkl         # Trained model artifact
+├── encoders.pkl           # Categorical feature encoders
+├── feature_columns.pkl    # Feature column mappings
+├── .gitignore             # Git ignored files
+└── README.md              # Project documentation
